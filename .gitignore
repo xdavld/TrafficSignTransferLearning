@@ -4,3 +4,8 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 .DS_Store
+.venv/
+*.sh
+logs/
+.jupyter_runtime/
+plots/
