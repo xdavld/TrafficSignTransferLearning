@@ -21,14 +21,6 @@ This notebook investigates the effectiveness of transfer learning for traffic si
   - Comparative heatmaps
 - Results highlight the effectiveness of transfer learning under low-data regimes (up to 5%), and the advantage of full training as data increases.
 
-## 📁 Directory Structure
-
-├── model/
-│ ├── resnet50_lisa_<fraction>.pth # Scratch-trained checkpoints
-│ └── resnet50_lisa_transfer_<fraction>.pth # Transfer-learned checkpoints
-├── TransferLearningforDifferentTrafficSigns.ipynb
-└── README.md
-
 ## 🚀 Requirements
 
 - Python 3.9+
